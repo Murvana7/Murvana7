@@ -1,4 +1,4 @@
-# 🧠 Murvan – Computer Science & AI Student Portfolio
+# 🧠 DachiMurvanidze – Computer Science & AI Student Portfolio
 
 Welcome to my personal portfolio repository.
 
