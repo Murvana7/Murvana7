@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e14a7e87-7eb4-4598-86f1-7133152b39d4" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d43cef94-c92f-48c1-9e91-7cbb3d88631b" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5767c849-b86a-4b30-bd3f-f556eefa24dd" /># 🧠 Murvan – Computer Science & AI Student Portfolio
+# 🧠 Murvan – Computer Science & AI Student Portfolio
 
 Welcome to my personal portfolio repository.
 
