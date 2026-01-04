@@ -58,3 +58,24 @@
         }
     }
 </style>
+<section class="tech-stack">
+    <h2>Tech Stack:</h2>
+    <div class="tech-icons">
+        <span class="tech-icon">C#</span>
+        <span class="tech-icon">C++</span>
+        <span class="tech-icon">PHP</span>
+        <span class="tech-icon">HTML5</span>
+        <span class="tech-icon">Java</span>
+        <span class="tech-icon">Oracle</span>
+        <span class="tech-icon">GoogleCloud</span>
+        <span class="tech-icon">Postgres</span>
+        <span class="tech-icon">Git</span>
+    </div>
+</section>
+
+<footer>
+    <div class="github-stats">
+        <p>GitHub Stats:</p>
+        <!-- Insert GitHub stats here -->
+    </div>
+</footer>
