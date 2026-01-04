@@ -1,81 +1,81 @@
-    header {
-        background-color: #111;
-        padding: 20px;
-        text-align: center;
-    }
+* {
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial;
+}
 
-    .socials {
-        margin-top: 10px;
-    }
+body {
+  margin: 0;
+  padding: 40px;
+  background: radial-gradient(circle at top, #111827, #020617);
+  color: #fff;
+}
 
-    .social-icon {
-        text-decoration: none;
-        color: white;
-        margin: 0 10px;
-        padding: 5px 10px;
-        background-color: #555;
-        border-radius: 5px;
-        transition: background-color 0.3s;
-    }
+/* Sections */
+.section {
+  margin-bottom: 50px;
+}
 
-    .social-icon:hover {
-        background-color: #888;
-    }
+.section-title {
+  font-size: 28px;
+  font-weight: 700;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+  margin-bottom: 20px;
+}
 
-    .tech-stack {
-        text-align: center;
-        margin: 50px 0;
-    }
+/* Badge layout */
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
 
-    .tech-icons {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
+/* Base badge */
+.badge {
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  white-space: nowrap;
+  cursor: default;
+  box-shadow: 0 4px 10px rgba(0,0,0,.35);
+}
 
-    .tech-icon {
-        background-color: #333;
-        padding: 10px 20px;
-        margin: 5px;
-        border-radius: 15px;
-        font-size: 16px;
-        color: #fff;
-    }
+/* Social colors */
+.discord { background:#5865F2 }
+.facebook { background:#1877F2 }
+.instagram { background:#E1306C }
+.linkedin { background:#0A66C2 }
+.email { background:#E5533D }
 
-    .tech-icon:hover {
-        background-color: #555;
-    }
+/* Tech colors */
+.green { background:#22c55e }
+.blue { background:#3b82f6 }
+.blue-dark { background:#1e3a8a }
+.purple { background:#7c3aed }
+.orange { background:#f97316 }
+.red { background:#dc2626 }
+.red-dark { background:#991b1b }
+.sky { background:#38bdf8 }
+.violet { background:#8b5cf6 }
+.indigo { background:#6366f1 }
+.pink { background:#ec4899 }
+.crimson { background:#b91c1c }
+.teal { background:#14b8a6 }
+.git { background:#f05032 }
+.github { background:#111 }
+.lime { background:#84cc16 }
+.dark { background:#1f2933 }
+.xbox { background:#107c10 }
 
-    footer {
-        text-align: center;
-        margin-top: 50px;
-    }
+/* Adobe */
+.adobe-red { background:#ff0000 }
+.adobe-orange { background:#ff9a00 }
+.adobe-blue { background:#31a8ff }
 
-    /* Add responsiveness */
-    @media (max-width: 768px) {
-        .tech-icons {
-            flex-direction: column;
-        }
-    }
-</style>
-<section class="tech-stack">
-    <h2>Tech Stack:</h2>
-    <div class="tech-icons">
-        <span class="tech-icon">C#</span>
-        <span class="tech-icon">C++</span>
-        <span class="tech-icon">PHP</span>
-        <span class="tech-icon">HTML5</span>
-        <span class="tech-icon">Java</span>
-        <span class="tech-icon">Oracle</span>
-        <span class="tech-icon">GoogleCloud</span>
-        <span class="tech-icon">Postgres</span>
-        <span class="tech-icon">Git</span>
-    </div>
-</section>
-
-<footer>
-    <div class="github-stats">
-        <p>GitHub Stats:</p>
-        <!-- Insert GitHub stats here -->
-    </div>
-</footer>
+/* Hover effect */
+.badge:hover {
+  transform: translateY(-2px);
+  transition: 0.2s ease;
+}
