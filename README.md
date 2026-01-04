@@ -87,16 +87,6 @@ Welcome to my personal portfolio.
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: d_murvanidze@cu.edu.ge  
-- 💼 LinkedIn: https://www.linkedin.com/in/dachi-murvanidze-142004381/
-- 🧑‍💻 GitHub: https://github.com/Murvana7
-- 🌐 Portfolio: https://murvana7.github.io/MYPortfolio/
- 
-
----
-
 ## ⚠️ Note
 
 All projects in this repository reflect my **current academic level** and are part of my learning process.  
