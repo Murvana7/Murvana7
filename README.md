@@ -1,16 +1,11 @@
-# 🧠 DachiMurvanidze – Computer Science & AI Student Portfolio
+# 🧠DachiMurvanidze – Portfolio
 
-Welcome to my personal portfolio repository.
-
-I am a **first-year Computer Science & Artificial Intelligence student** at **Caucasus University (Tbilisi)**.  
-This repository showcases my early-stage projects, academic work, and technical growth as I build strong foundations in programming, mathematics, and problem-solving.
-
+Welcome to my personal portfolio.
 ---
 
 ## 📌 About Me
 
 - 🎓 CS & Artificial Intelligence student (Year 1)
-- 💻 Focused on **programming fundamentals**, clean logic, and clarity
 - 📊 Interested in **automation, beginner AI tools, and data analysis**
 
 My goal is to turn university concepts into **practical, understandable projects** and continuously improve through small, consistent work.
@@ -18,87 +13,128 @@ My goal is to turn university concepts into **practical, understandable projects
 ---
 
 ## 🧩 Projects
-
-### 🔹 Student Utility Console App
-**** Python, C  
-A menu-based console application including:
-- Calculator
-- Prime number checker
-- Palindrome checker
-- Min / Max finder
-- Grade average calculator  
-
-**What I practiced:**
-- Functions, loops, conditionals
-- Input validation
-- Writing clean, readable console output
-
-🔗 Repository:  
-`https://github.com/Murvana7/student-utility-app`
-
----
-
-### 🔹 Function Analyzer Tool
-**** C, Python, Calculus I  
-A tool that:
-- Accepts a mathematical function
-- Computes derivatives
-- Evaluates values
-- Visualizes the function graph  
-
-**What I practiced:**
-- Translating math concepts into code
-- Structured problem-solving
-- Connecting calculus with programming
-
-🔗 Repository:  
-`https://github.com/Murvana7/function-analyzer`
-
----
-
-### 🔹 Technical Case Study
-**** Academic Writing, English (C1)  
-A short technical write-up explaining:
-- The problem
-- The solution
-- Code structure
-- Lessons learned  
-
-**What I practiced:**
-- Clear technical explanations
-- Structured writing
-- Communicating ideas precisely
-
-🔗 Repository:  
-`https://github.com/Murvana7/case-study`
-
----
-
-### 🔹 Technology & Civilization Mini-Analysis
-**** World History, Critical Thinking  
-An analytical essay connecting:
-- Historical development of civilizations
-- The role of technology
-- Modern AI context and implications  
-
-**What I practiced:**
-- Analytical thinking
-- Interdisciplinary connections
-- Writing beyond pure code
-
-🔗 Repository:  
-`https://github.com/Murvana7/tech-civilization-essay`
-
+MyPortfolio:
 ---
 
 ## 🛠 Skills
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Stack</title>
+    <style>
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1c1c1c;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
 
-**Programming**
-- C (basic)
-- Python (beginner–intermediate)
+        header {
+            background-color: #111;
+            padding: 20px;
+            text-align: center;
+        }
 
-**Math**
-- Calculus I foundations
+        .socials {
+            margin-top: 10px;
+        }
+
+        .social-icon {
+            text-decoration: none;
+            color: white;
+            margin: 0 10px;
+            padding: 5px 10px;
+            background-color: #555;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .social-icon:hover {
+            background-color: #888;
+        }
+
+        .tech-stack {
+            text-align: center;
+            margin: 50px 0;
+        }
+
+        .tech-icons {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .tech-icon {
+            background-color: #333;
+            padding: 10px 20px;
+            margin: 5px;
+            border-radius: 15px;
+            font-size: 16px;
+            color: #fff;
+        }
+
+        .tech-icon:hover {
+            background-color: #555;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        /* Add responsiveness */
+        @media (max-width: 768px) {
+            .tech-icons {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Your body content goes here -->
+</body>
+</html>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="socials">
+            <a href="https://discord.com" class="social-icon">Discord</a>
+            <a href="https://facebook.com" class="social-icon">Facebook</a>
+            <a href="https://www.instagram.com/murvana_/" class="social-icon">Instagram</a>
+            <a href="https://www.linkedin.com/in/dachi-murvanidze-142004381" class="social
+             icon">LinkedIn</a>
+            <a href="d_murvanidze@cu.edu.ge" class="social-icon">Email</a>
+        </div>
+    </header>
+
+    <section class="tech-stack">
+        <h2>Tech Stack:</h2>
+        <div class="tech-icons">
+            <span class="tech-icon">C#</span>
+            <span class="tech-icon">C++</span>
+            <span class="tech-icon">PHP</span>
+            <span class="tech-icon">HTML5</span>
+            <span class="tech-icon">Java</span>
+            <span class="tech-icon">Oracle</span>
+            <span class="tech-icon">GoogleCloud</span>
+            <span class="tech-icon">Postgres</span>
+            <span class="tech-icon">Git</span>
+        </div>
+    </section>
+
+    <footer>
+        <div class="github-stats">
+            <p>GitHub Stats:</p>
+            <!-- Insert GitHub stats here -->
+        </div>
+    </footer>
+</body>
+</html>
 
 **Tools**
 - Git & GitHub
@@ -108,6 +144,8 @@ An analytical essay connecting:
 - Automation
 - Beginner AI tools
 - Data analysis
+- Web Development
+- Backend Development
 
 ---
 
@@ -116,7 +154,6 @@ An analytical essay connecting:
 - Writing cleaner, more structured code
 - Better project documentation (README files, examples)
 - Building small tools that solve real problems
-- Connecting math concepts to practical programming
 
 ---
 
