@@ -32,9 +32,8 @@ Welcome to my personal portfolio.
 
 ---
 
-## 🛠 Skills
-***🧠 AI • Automation • Backend • Data Analysis
---🧑‍💻 Programming & Core
+## 🛠 Skills ( AI • Automation • Backend • Fronted • Data Analysis)
+🧑‍💻 Programming & Core
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -44,7 +43,7 @@ Welcome to my personal portfolio.
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
--- 📊 Data Analysis & ML
+📊 Data Analysis & ML
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -55,7 +54,7 @@ Welcome to my personal portfolio.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
--- 🌐 Backend & Web
+🌐 Backend & Web
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
@@ -64,14 +63,14 @@ Welcome to my personal portfolio.
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white">
 </p>
 
--- 🗄 Databases
+🗄 Databases
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </p>
 
--- ☁️ Cloud, DevOps & Tools
+☁️ Cloud, DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -79,14 +78,14 @@ Welcome to my personal portfolio.
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
--- ⚙️ Automation & Workflow
+⚙️ Automation & Workflow
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </p>
 
--- 🔜 Soon
+🔜 Soon
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Acrobat-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white">
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
@@ -104,6 +103,7 @@ Welcome to my personal portfolio.
   <img src="https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white">
 </p>
 
+---
 
 ## 📊 Interests
 - Automation
