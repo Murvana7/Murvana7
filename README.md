@@ -35,6 +35,7 @@ Welcome to my personal portfolio.
 ## 🛠 Skills
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-22C55E?style=flat-square&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-3B82F6?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square&logo=php&logoColor=white">
