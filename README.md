@@ -6,14 +6,8 @@ Welcome to my personal portfolio.
 ## 📌 About Me
 
 - 🎓 CS & Artificial Intelligence student (Year 1)
-- 📊 Interested in **automation, beginner AI tools, and data analysis**
-
-My goal is to turn university concepts into **practical, understandable projects** and continuously improve through small, consistent work.
-
----
-
-## 🧩 Projects
-MyPortfolio:
+- 🏠 Tbilis, Georgia
+  
 ---
 
 ## 🌐 Socials
