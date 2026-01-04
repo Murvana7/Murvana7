@@ -5,8 +5,8 @@ Welcome to my personal portfolio.
 
 ## 📌 About Me
 
-- 🎓 CS & Artificial Intelligence student (Year 1)
-- 🏠 Tbilis, Georgia
+- 🎓 CS & Artificial Intelligence Student (Year 1)
+- 🏠 Tbilisi, Georgia
   
 ---
 
