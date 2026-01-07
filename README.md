@@ -33,9 +33,8 @@ Welcome to my personal portfolio.
 ---
 
 ## 🛠 Skills ( AI • Automation • Backend • Fronted • Data Analysis)
-🧑‍💻 Programming & Core
+🧑‍💻 Programming & Cores
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
