@@ -1,4 +1,4 @@
-# 🧠DachiMurvanidze – Portfolio
+# 🧑‍💻DachiMurvanidze – Portfolio
 
 Welcome to my personal portfolio.
 ---
