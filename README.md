@@ -27,7 +27,6 @@ Welcome to my personal portfolio.
     <img src="https://img.shields.io/badge/Email-E5533D?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
----
 
 ## 📊 Interests
 - Automation
