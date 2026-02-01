@@ -5,10 +5,8 @@ Welcome to my personal portfolio.
 
 ##  About Me
 
-- 🎓 CS & Artificial Intelligence Student (Year 1)
+- 🎓 Computer Science & Artificial Intelligence Student (Year 1)
 - 🏠 Tbilisi, Georgia
-  
----
 
 ## 🌐 Socials
 
