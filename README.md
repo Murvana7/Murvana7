@@ -42,4 +42,3 @@ Welcome to my personal portfolio.
 - Writing cleaner, more structured code
 - Better project documentation (README files, examples)
 - Building small tools that solve real problems
-25 Murvan 
